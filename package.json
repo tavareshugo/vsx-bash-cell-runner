@@ -3,7 +3,7 @@
     "displayName": "Bash Cell Runner",
     "description": "Execute Bash code from Markdown, Quarto, and shell scripts.",
     "version": "0.1.0",
-    "publisher": "local",
+    "publisher": "tavareshugo",
     "license": "MIT",
     "engines": {
         "vscode": "^1.85.0"
@@ -19,5 +19,9 @@
                 "title": "Bash Cell: Execute Current Line"
             }
         ]
+    },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/tavareshugo/bash-cell-runner.git"
     }
 }
