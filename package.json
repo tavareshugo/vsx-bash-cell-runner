@@ -1,0 +1,23 @@
+{
+    "name": "bash-cell-runner",
+    "displayName": "Bash Cell Runner",
+    "description": "Execute Bash code from Markdown, Quarto, and shell scripts.",
+    "version": "0.1.0",
+    "publisher": "local",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.85.0"
+    },
+    "activationEvents": [
+        "onStartupFinished"
+    ],
+    "main": "./extension.js",
+    "contributes": {
+        "commands": [
+            {
+                "command": "bashCell.executeLine",
+                "title": "Bash Cell: Execute Current Line"
+            }
+        ]
+    }
+}
