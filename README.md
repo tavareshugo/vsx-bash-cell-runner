@@ -1,7 +1,7 @@
 # Bash Cell Runner
 
 [![MIT license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![AI Generated](https://www.aihonestybadge.com/badges/ai-generated-small.svg)](https://www.aihonestybadge.com)
+[![AI Generated](https://www.aihonestybadge.com/badges/ai-generated-small.png)](https://www.aihonestybadge.com)
 
 A small extension for VS Code-compatible editors that makes **Ctrl+Enter** useful for Bash code in Markdown, Quarto, and shell scripts.
 
