@@ -127,7 +127,7 @@ The extension uses a VS Code context key to activate its keybinding only when th
 
 ### Pre-built VSIX
 
-Download the pre-built `.vsix` file from the [GitHub releases page](https://github.com/tavareshugo/bash-cell-runner/releases).
+Download the pre-built `.vsix` file from the [GitHub releases page](https://github.com/tavareshugo/vsx-bash-cell-runner/releases).
 
 Then, install with:
 
@@ -141,7 +141,7 @@ code --install-extension bash-cell-runner-0.1.0.vsix
 Clone or download the repository and open the extension directory in a Code-compatible IDE:
 
 ```bash
-git clone https://github.com/tavareshugo/bash-cell-runner.git
+git clone https://github.com/tavareshugo/vsx-bash-cell-runner.git
 cd bash-cell-runner
 ```
 
@@ -168,7 +168,7 @@ npm install --global @vscode/vsce
 Then clone and create the VSIX from the extension directory:
 
 ```bash
-git clone https://github.com/tavareshugo/bash-cell-runner.git
+git clone https://github.com/tavareshugo/vsx-bash-cell-runner.git
 cd bash-cell-runner
 vsce package
 ```
